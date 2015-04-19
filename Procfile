@@ -1,0 +1,1 @@
+web: coreos-mgr

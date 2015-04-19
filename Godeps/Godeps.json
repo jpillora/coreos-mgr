@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/jpillora/coreos-mgr",
+	"GoVersion": "go1.4.2",
+	"Deps": []
+}
